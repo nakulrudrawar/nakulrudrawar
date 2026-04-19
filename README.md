@@ -8,7 +8,7 @@
   <a href="mailto:nakulrudrawar7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nakul-rudrawar-469199235">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=nakulrudrawar&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -20,9 +20,10 @@
 
 - 🎓 **MCA Graduate (2026)** from G H Raisoni College of Engineering and Management, Pune — CGPA: **9.3**
 - 🏅 **BCA** from SRTM University, Nanded — CGPA: **9.33** | Graduated with Distinction
-- ☁️ Hands-on experience with **AWS cloud infrastructure**, including EC2, VPC, RDS, IAM, S3, and CloudWatch
-- 🤖 Built ML-powered web apps and full-stack database-driven systems
-- 🌱 Currently learning: **Docker | Terraform | Kubernetes | CI/CD (GitHub Actions, Jenkins)**
+- ☁️ Currently interning as a **Cloud Engineer** at **Cravita Technologies**
+- 🔭 Hands-on experience with **AWS cloud infrastructure**, including EC2, VPC, RDS, IAM, S3, and CloudWatch
+- 📄 Published a **research paper** on AWS Cloud Scaling Strategies (Static vs Dynamic)
+- 🌱 Currently learning: **Jenkins | Ansible | Terraform | Kubernetes | Prometheus | Grafana**
 - 🏆 **1st Rank** — Inter-College Hackathon
 - 📍 Based in **Pune, Maharashtra, India**
 
@@ -30,11 +31,22 @@
 
 ## 🛠️ Tech Stack & Skills
 
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 **Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries**
@@ -45,13 +57,6 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -59,7 +64,7 @@
 
 **AWS Services**
 
-`EC2` `VPC` `RDS` `IAM` `S3` `CloudWatch` `ALB` `ASG` `NAT Gateway` `CloudFront`
+`EC2` `S3` `RDS` `VPC` `IAM` `CloudFront` `ALB` `ASG` `CloudWatch` `NAT Gateway`
 
 ---
 
@@ -70,6 +75,16 @@
 - Configured multi-tier subnetting, security groups, and DNS resolution in custom VPCs
 - Monitored system health using **AWS CloudWatch** with alarms and dashboards for observability
 - **Skills:** AWS EC2, VPC, RDS, IAM, CloudWatch, Python
+
+---
+
+### 🤖 Resume Auto-Apply Bot
+> An AI-powered job application automation tool built with **LangChain**, **Streamlit**, **MySQL**, and **Selenium**. Uses a vector database to match resumes with job descriptions and auto-fills application forms.
+
+---
+
+### 💬 Chat Room Application
+> A real-time chat application built with **Django** and **MySQL**, supporting both text and audio messaging features.
 
 ---
 
