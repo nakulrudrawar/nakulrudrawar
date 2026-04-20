@@ -19,7 +19,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 **MCA Graduate (2026)** from G H Raisoni College of Engineering and Management, Pune — CGPA: **9.3**
-- ☁️ Currently interning as a **Cloud Engineer** at **Cravita Technologies**
 - 🔭 Hands-on experience with **AWS cloud infrastructure**, including EC2, VPC, RDS, IAM, S3, and CloudWatch
 - 🌱 Currently learning: **Jenkins | Ansible | Terraform | Kubernetes | Prometheus | Grafana**
 - 🏆 **1st Rank** — Inter-College Hackathon
